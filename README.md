@@ -52,7 +52,8 @@
       <div class="copyright float-right">
         &copy;
         made with <i class="material-icons">favorite</i> by
-        <a href="https://github.com/LucasSousaAmaral" target="_blank">Lucas monstro sagrado</a> for a better web.
+        <a href="https://github.com/LucasSousaAmaral" target="_blank">Lucas monstro sagrado</a> for sair mostrando por ai.
+        Sim sou quase americano how did  u guessed it?
       </div>
     </div>
   </footer>
