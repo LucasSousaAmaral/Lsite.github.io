@@ -34,19 +34,7 @@
       </div>
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav ml-auto">
-          <!--<li class="dropdown nav-item">
-            <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-              <i class="material-icons">apps</i> Components
-            </a>
-            <div class="dropdown-menu dropdown-with-icons">
-              <a href="./index.html" class="dropdown-item">
-                <i class="material-icons">layers</i> All Components
-              </a>
-              <a href="https://demos.creative-tim.com/material-kit/docs/2.1/getting-started/introduction.html" class="dropdown-item">
-                <i class="material-icons">content_paste</i> Documentation
-              </a>
-            </div>
-          </li>-->
+        
           <li class="nav-item">
             <a class="nav-link" href="javascript:void(0)" onclick="scrollToDownload()">
               <i class="material-icons">cloud_download</i> Downloads
@@ -57,21 +45,6 @@
                 Não usem redes sociais
                 </a>
           </li>
-          <!--<li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="#" target="_blank" data-original-title="Follow us on Twitter">
-              <i class="fa fa-twitter"></i>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="#" target="_blank" data-original-title="Like us on Facebook">
-              <i class="fa fa-facebook-square"></i>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="" data-placement="bottom" href="#" target="_blank" data-original-title="Follow us on Instagram">
-              <i class="fa fa-instagram"></i>
-            </a>
-          </li>-->
         </ul>
       </div>
     </div>
@@ -428,7 +401,6 @@
         <!--                 end sliders -->
       </div>
     </div>
-    <div class="section section-navbars cd-section" id="navigation">
       <div class="container">
         <!--                 menu -->
         <div class="row">
@@ -523,8 +495,6 @@
           <h3>Navigation</h3>
         </div>
       </div>
-      <!--             navbar -->
-      <div id="navbar">
         <div class="navigation-example" style="background-image: url('./assets/img//bg.jpg');">
           <!--        rose navbar with search form -->
           <nav class="navbar navbar-expand-lg bg-rose">
@@ -677,83 +647,7 @@
             </div>
             <!-- /.container-->
           </nav>
-          <!--            end inverse navbar -->
-          <!--        default navbar with profile photo -->
-          <nav class="navbar navbar-default navbar-expand-lg" role="navigation-demo">
-            <div class="container">
-              <!-- Brand and toggle get grouped for better mobile display -->
-              <div class="navbar-translate">
-                <a class="navbar-brand" href="#0">Navbar with profile</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="navbar-toggler-icon"></span>
-                  <span class="navbar-toggler-icon"></span>
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-              </div>
-              <!-- Collect the nav links, forms, and other content for toggling -->
-              <div class="collapse navbar-collapse">
-                <ul class="navbar-nav ml-auto">
-                  <li class="nav-item">
-                    <a href="#pablo" class="nav-link">
-                      Discover
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="#pablo" class="nav-link">
-                      Wishlist
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="#pablo" class="btn btn-rose btn-raised btn-round " data-toggle="dropdown">
-                      Register
-                    </a>
-                  </li>
-                </ul>
-              </div>
-              <!-- /.navbar-collapse -->
-            </div>
-            <!-- /.container-->
-          </nav>
-          <!--                end default navbar -->
-          <!--        transparent navbar -->
-          <nav class="navbar navbar-transparent navbar-expand-lg">
-            <div class="container">
-              <div class="navbar-translate">
-                <a class="navbar-brand" href="#pablo">Transparent</a>
-                <button type="button" class="ml-auto navbar-toggler" data-toggle="collapse" data-target="#example-navbar-transparent">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="navbar-toggler-icon"></span>
-                  <span class="navbar-toggler-icon"></span>
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-              </div>
-              <div class="collapse navbar-collapse" id="example-navbar-transparent">
-                <ul class="navbar-nav ml-auto">
-                  <li class="nav-item">
-                    <a href="#pablo" class="nav-link">
-                      <i class="fa fa-facebook-square"></i> Facebook
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="#pablo" class="nav-link">
-                      <i class="fa fa-twitter"></i> Twitter
-                    </a>
-                  </li>
-                  <li class="nav-item">
-                    <a href="#pablo" class="nav-link">
-                      <i class="fa fa-instagram"></i> Instagram
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </nav>
-          <!--        end transparent navbar-->
-        </div>
-      </div>
-      <!-- end navbar  -->
-    </div>
+         
     <div class="section section-download" id="downloadSection">
       <div class="container">
         <div class="row text-center">
@@ -775,7 +669,6 @@
           <div class="row justify-content-center">
             <h3>Obrigado por nos apoiar!</h3>
           </div>
-     
           <a id="github" href="https://github.com/LucasSousaAmaral" target="_blank" class="btn btn-raised btn-github">
             <i class="fa fa-github"></i> Star
           </a>
