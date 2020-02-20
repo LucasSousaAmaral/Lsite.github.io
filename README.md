@@ -20,7 +20,7 @@
         <div class="col-md-8 ml-auto mr-auto">
           <div class="brand">
             <h1>Lderived Solutions</h1>
-            <h3>Improve your code, for a better world</h3>
+            <h3>Aplicações do menino Lucas feitas em C#, uploadadas em um site feito em HTML/CSS, por não haver a necessidade de ter javascript (known as JAVASCRIPiTo) não foi usado, mas eu sei usar (y)</h3>
           </div>
         </div>
       </div>
