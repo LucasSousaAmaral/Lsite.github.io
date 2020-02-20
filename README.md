@@ -5,9 +5,7 @@
   <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="./assets/img/favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <title>
-    Lderived Solutions
-  </title>
+  <title>Lderived Solutions</title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
@@ -18,11 +16,6 @@
     <div class="container">
       <div class="navbar-translate">
         <a class="navbar-brand" href="https://github.com/LucasSousaAmaral/Lsite.github.io"> LDerived Solutions </a>
-      </div>
-      <div class="collapse navbar-collapse">
-            <a class="nav-link" href="https://drive.google.com/u/0/uc?id=1_BeQyu4mEfa-s8pKnk5lNREs2oNXHjLo&export=download">
-              <i class="material-icons">cloud_download</i> Downloads
-            </a>
       </div>
     </div>
   </nav>
@@ -41,10 +34,15 @@
         <br>
         <br>
         <div class="row text-center">
-          <div class="col-md-8 ml-auto mr-auto">
-            <h2>Young Lucas why u trap so hard?</h2>
-            <h4>Yo man, We've just launched Lderived Equities Viewer</h4>
-          </div>
+            <div class="col-md-8 ml-auto mr-auto">
+                <h2>Young Lucas why u trap so hard?</h2>
+                <h4>Yo man, We've just launched Lderived Equities Viewer</h4>
+                <div class="collapse navbar-collapse">
+                    <a class="nav-link" href="https://drive.google.com/u/0/uc?id=1_BeQyu4mEfa-s8pKnk5lNREs2oNXHjLo&export=download">
+                        <i class="material-icons">cloud_download</i> Download!
+                    </a>
+                </div>
+            </div>
         </div>
         <div class="sharing-area text-center">
           <div class="row justify-content-center">
