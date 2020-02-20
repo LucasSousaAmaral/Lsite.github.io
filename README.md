@@ -33,7 +33,7 @@
                 <h2>Young Lucas why u trap so hard?</h2>
                 <h4>Yo man, We've just launched Lderived Equities Viewer</h4>
                 <div class="collapse navbar-collapse">
-                    <a class="nav-link" href="https://drive.google.com/u/0/uc?id=1_BeQyu4mEfa-s8pKnk5lNREs2oNXHjLo&export=download">
+                    <a class="nav-link" href="https://drive.google.com/u/0/uc?id=1Anc_BIyoQ4bSaGBRSW-B70s12iTXZsbj&export=download">
                         <i class="material-icons">cloud_download</i>  Lderived Equities Viewer
                     </a>
                 </div>
