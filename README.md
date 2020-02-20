@@ -20,14 +20,9 @@
         <a class="navbar-brand" href="https://github.com/LucasSousaAmaral/Lsite.github.io"> LDerived Solutions </a>
       </div>
       <div class="collapse navbar-collapse">
-        <ul class="navbar-nav ml-auto">
-        
-          <li class="nav-item">
-            <a class="nav-link">
+            <a class="nav-link" href="https://drive.google.com/u/0/uc?id=1_BeQyu4mEfa-s8pKnk5lNREs2oNXHjLo&export=download">
               <i class="material-icons">cloud_download</i> Downloads
             </a>
-          </li>
-        </ul>
       </div>
     </div>
   </nav>
@@ -63,7 +58,7 @@
     <div class="container">
       <div class="copyright float-right">
         &copy;
-        made with l<i class="material-icons">favorite</i>ve by
+        made with <i class="material-icons">favorite</i> by
         <a href="https://github.com/LucasSousaAmaral" target="_blank">Lucas monstro sagrado</a> for a better web.
       </div>
     </div>
