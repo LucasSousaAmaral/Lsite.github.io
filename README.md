@@ -19,7 +19,6 @@
     <div class="container">
       <div class="navbar-translate">
         <a class="navbar-brand" href="#">
-        <a class="navbar-brand" href="#">
           LDerived Solutions </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="sr-only">Toggle navigation</span>
@@ -54,27 +53,6 @@
       </div>
     </div>
   </div>
-  <div class="main main-raised">
-    <div class="section section-basic">
-      <div class="container">
-        <div class="title">
-          <h2>Basic Elements</h2>
-        </div>
-        <div class="space-50"></div>
-
-        <div class="space-70"></div>
-      </div>
-    </div>
-      <div class="container">
-    <div class="section section-download" id="downloadSection">
-      <div class="container">
-        <div class="row text-center">
-          <div class="col-md-8 ml-auto mr-auto">
-            <h2>Petende usar uma de nossas soluções?</h2>
-            <h4>Cause if you do, all of it can be yours for free young fella.</h4>
-          </div>
-          
-        </div>
         <br>
         <br>
         <div class="row text-center">
@@ -91,9 +69,6 @@
             <i class="fa fa-github"></i> Star
           </a>
         </div>
-      </div>
-    </div>
-  </div>
   <footer class="footer" data-background-color="black">
     <div class="container">
       <div class="copyright float-right">
