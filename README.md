@@ -13,11 +13,6 @@
 
 <body class="index-page sidebar-collapse">
   <nav class="navbar navbar-transparent navbar-color-on-scroll fixed-top navbar-expand-lg" color-on-scroll="100" id="sectionsNav">
-    <div class="container">
-      <div class="navbar-translate">
-        <a class="navbar-brand" href="https://github.com/LucasSousaAmaral/Lsite.github.io"> LDerived Solutions </a>
-      </div>
-    </div>
   </nav>
   <div class="page-header header-filter clear-filter grey-filter" data-parallax="true" style="background-image: url('./assets/img/bg2.jpg');">
     <div class="container">
@@ -39,7 +34,7 @@
                 <h4>Yo man, We've just launched Lderived Equities Viewer</h4>
                 <div class="collapse navbar-collapse">
                     <a class="nav-link" href="https://drive.google.com/u/0/uc?id=1_BeQyu4mEfa-s8pKnk5lNREs2oNXHjLo&export=download">
-                        <i class="material-icons">cloud_download</i> Download!
+                        <i class="material-icons">cloud_download</i>  Lderived Equities Viewer
                     </a>
                 </div>
             </div>
