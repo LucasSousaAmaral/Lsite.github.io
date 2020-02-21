@@ -38,10 +38,10 @@
                     </a>
                 </div>
             </div>
-        </div>
+        </div> <br>
    <div class="row text-center">
             <div class="col-md-8 ml-auto mr-auto">
-                <h4>Yo man, We've just launched Lderived Lils Market Apply</h4>
+                <h4>We've just already launched Lderived Lils Market Apply</h4>
                 <div class="collapse navbar-collapse">
                     <a class="nav-link" href="https://drive.google.com/u/0/uc?id=1nl7vhBTnCGtqO1H1Uun5SbvBjCq2fdj3&export=download">
                         <i class="material-icons">cloud_download</i>  Lderived Market.App
