@@ -51,7 +51,7 @@
         </div>
   <div class="row text-center">
             <div class="col-md-8 ml-auto mr-auto">
-                <h4>We've just already launched Lderived Lils Market Apply</h4>
+                <h4>We've just already launched Lderived Tail</h4>
                 <div class="collapse navbar-collapse">
                     <a class="nav-link" href="https://drive.google.com/u/0/uc?id=11NkUIFGd_Shz0WeJqNx9PZ9ihiLWYOae&export=download">
                         <i class="material-icons">cloud_download</i>  Lderived Tail.App
